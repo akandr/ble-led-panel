@@ -1,0 +1,4 @@
+pypixelcolor>=0.5
+bleak>=1,<2      # BlueZ 5.50 (Raspbian Buster) needs <2; see lib/bleclient.py
+pillow
+numpy
